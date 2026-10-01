@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ci8thd16bcluo"]
+
+[ext_resource type="Texture2D" uid="uid://b4mvontlpljq8" path="res://Assets/World Assets/Screenshot 2025-11-08 002428.png" id="1_csfaq"]
+
+[node name="World" type="Node2D" unique_id=1737482119]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=47306981]
+texture = ExtResource("1_csfaq")
